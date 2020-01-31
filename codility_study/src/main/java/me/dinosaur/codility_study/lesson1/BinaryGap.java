@@ -1,4 +1,4 @@
-package me.dinosaur.codility_study.Lesson1;
+package me.dinosaur.codility_study.lesson1;
 
 import org.springframework.stereotype.Service;
 
